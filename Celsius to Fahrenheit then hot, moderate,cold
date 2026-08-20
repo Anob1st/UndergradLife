@@ -18,7 +18,7 @@ int main(){
     float fahren;
     fahren= (celsius_to_fahrenheit(c));
     
-    
+    printf("The Fahrenheit value is: %f\nAnd the weather is ", fahren);
     
     if (fahren<68)
          printf("cold");
