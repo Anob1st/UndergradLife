@@ -37,7 +37,7 @@ int main() {
     
 }
 
-/*#include<stdio.h>       /*another way*/
+/*#include<stdio.h>       /*another way
 int fact(int n){
     
     int result=1;
