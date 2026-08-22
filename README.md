@@ -2,7 +2,7 @@
 The classes, assignments, late nights, struggles ,mistakes, self learning and small happy moments...
 
 
-All these will be memories oneday  :(
+All these will probably be memories oneday  :(
 
 But the dedication, sacrifices will worth it
 
